@@ -1,0 +1,6 @@
+{
+  "name": "Nishant Medicos - Pharmacy & Healthcare Store (Ambikapur)",
+  "description": "Nishant Medicos e-commerce pharmacy, doctor clinic appointments, and medicine dispensary at Deviganj Road, Ambikapur, Sarguja, Chhattisgarh 49001. Mobile: 7354260555.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
